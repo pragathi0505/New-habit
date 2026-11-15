@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">DailyHabit</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">Today</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_reminders">Reminders</string>
+
+    <!-- Calendar & Streaks -->
+    <string name="calendar_title">Streak Calendar</string>
+    <string name="calendar_subtitle">Track your streaks, completed days, and missed days</string>
+    <string name="streak_current_label">Current Streak</string>
+    <string name="streak_longest_label">Longest Streak</string>
+    <string name="streak_perfect_label">Perfect Days</string>
+    <string name="legend_completed">Completed</string>
+    <string name="legend_partial">Partial</string>
+    <string name="legend_missed">Missed</string>
+    <string name="legend_rest">Rest / Future</string>
+    <string name="previous_month">Previous month</string>
+    <string name="next_month">Next month</string>
+
+    <!-- Today Screen -->
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_afternoon">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="today_label">Today</string>
+    <string name="todays_progress_title">Today\'s Progress</string>
+    <string name="day_progress_title">Day\'s Progress</string>
+    <string name="todays_habits_heading">Today\'s Habits</string>
+    <string name="day_habits_heading">Scheduled Habits</string>
+    <string name="jump_to_today">Back to Today</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="edit_habit">Edit Habit</string>
+    <string name="filter_all">All</string>
+    <string name="completed_count_format">%1$d of %2$d completed</string>
+    <string name="remaining_count_format">%1$d left to go</string>
+    <string name="all_done_title">All habits completed!</string>
+    <string name="all_done_subtitle">Every scheduled habit for this day is checked off.</string>
+    <string name="empty_habits_title">Start your daily rhythm</string>
+    <string name="empty_habits_subtitle">Build small, consistent habits offline. Track streaks, monitor progress, and set gentle reminders.</string>
+    <string name="add_starter_pack">Add Starter Habits</string>
+    <string name="create_first_habit">Create Custom Habit</string>
+    <string name="no_habits_for_day">No habits scheduled for this day</string>
+    <string name="no_habits_for_day_subtitle">Enjoy your rest day or tap + to add a new daily habit.</string>
+    <string name="future_day_locked">Future days cannot be checked off yet</string>
+
+    <!-- Streaks & Stats -->
+    <string name="streak_days_format">%1$dd streak</string>
+    <string name="best_streak_format">Best: %1$dd</string>
+    <string name="stats_title">Progress &amp; Streaks</string>
+    <string name="stats_subtitle">Local insights stored privately on your device</string>
+    <string name="stat_total_checkins">Total Check-ins</string>
+    <string name="stat_best_streak">Best Streak</string>
+    <string name="stat_weekly_rate">7-Day Rate</string>
+    <string name="stat_active_habits">Active Habits</string>
+    <string name="weekly_consistency">Weekly Consistency</string>
+    <string name="activity_heatmap">35-Day Consistency Map</string>
+    <string name="habit_breakdown">Habit Streaks &amp; Completion</string>
+    <string name="stats_empty">Complete your first habit to unlock streak charts and consistency heatmaps.</string>
+
+    <!-- Reminders & Settings -->
+    <string name="reminders_title">Reminders</string>
+    <string name="reminders_subtitle">Stay consistent with on-device notifications</string>
+    <string name="notification_permission_title">Allow Notifications</string>
+    <string name="notification_permission_body">DailyHabit needs notification permission to deliver your scheduled habit reminders offline.</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="notifications_enabled_badge">Notifications Active</string>
+    <string name="daily_summary_title">Daily Check-in Reminder</string>
+    <string name="daily_summary_desc">A gentle evening nudge to review uncompleted habits</string>
+    <string name="send_test_notification">Send Test Notification</string>
+    <string name="test_notification_sent">Test reminder sent!</string>
+    <string name="habit_reminders_section">Habit Reminders</string>
+    <string name="no_habit_reminders">No active habits yet. Add a habit to configure its reminder time.</string>
+    <string name="archived_habits_section">Archived Habits</string>
+    <string name="restore_habit">Restore</string>
+    <string name="delete_permanently">Delete</string>
+
+    <!-- Habit Editor & Detail -->
+    <string name="create_habit_title">Create Habit</string>
+    <string name="edit_habit_title">Edit Habit</string>
+    <string name="live_preview_label">Preview</string>
+    <string name="habit_name_label">Habit Name</string>
+    <string name="habit_name_placeholder">e.g., Morning Hydration</string>
+    <string name="habit_name_required_error">Please enter a habit name</string>
+    <string name="habit_note_label">Motivation or Note (Optional)</string>
+    <string name="habit_note_placeholder">e.g., 500ml water before coffee</string>
+    <string name="category_label">Category</string>
+    <string name="icon_label">Choose Icon</string>
+    <string name="color_label">Habit Color</string>
+    <string name="frequency_label">Frequency</string>
+    <string name="schedule_label">Target Days of Week</string>
+    <string name="target_days_label">Target Days Goal</string>
+    <string name="target_days_subtitle">Set how many total days you aim to complete this habit</string>
+    <string name="reminder_label">Reminder Time</string>
+    <string name="save_habit">Save Habit</string>
+    <string name="create_habit_cta">Create Habit</string>
+    <string name="cancel">Cancel</string>
+    <string name="archive_habit">Archive</string>
+    <string name="delete_habit">Delete Habit</string>
+    <string name="delete_confirm_title">Delete this habit?</string>
+    <string name="delete_confirm_body">This removes the habit and its local streak history permanently.</string>
+    <string name="cd_toggle_habit">Toggle completion for %1$s</string>
+    <string name="cd_habit_icon">Habit category icon</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_empty_illustration">Botanical plant and habit journal illustration</string>
+</resources>

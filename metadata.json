@@ -1,0 +1,6 @@
+{
+  "name": "DailyHabit",
+  "description": "Offline daily habit tracker with completion checklists, streak tracking, progress statistics, and customizable reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
